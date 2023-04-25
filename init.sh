@@ -8,4 +8,4 @@ pipenv install --python /usr/bin/python3
 
 pipenv run pip install pandas colors.py rfc3339 numpy werkzeug
 
-make start-prod
+make start-prod &
